@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/pbathuri/Map_Projects_MAC/main/Assets/<filenam
 | `profile-hero.png` | Profile README hero banner | 1584 × 396 | Top of `pbathuri/pbathuri/README.md` |
 | `profile-hero.gif` | Animated hero (optional replacement) | 1584 × 396, ≤ 4 MB | Looped phase-transition drawing |
 | `research-cluster.png` | Social preview + inline card | 1280 × 640 | `finance-cache-hpc` + research section |
-| `portfolio-constellation.png` | Social preview for `Map_Projects_MAC` | 1280 × 640 | — |
+| `portfolio-constellation.png` | Social preview for `Map_Projects_MAC` | 1280 × 640 | - |
 | `kory-social.png` | Social preview | 1280 × 640 | `Kory_The_Cat-NCAA` |
 | `resumeforge-social.png` | Social preview | 1280 × 640 | `ResumeForge` |
 | `claude-hackathon-social.png` | Social preview | 1280 × 640 | `Claude_Hackathon` |
@@ -35,13 +35,13 @@ Static PNGs were generated from the design brief in the root [`README.md`](../RE
 
 ---
 
-## House style — so new assets stay coherent
+## House style - so new assets stay coherent
 
 - **Background**: `#0D1117` (GitHub dark default)
 - **Primary accent (finance / research)**: `#FFA657` amber
 - **Secondary accent (tech / systems)**: `#58A6FF` electric blue
 - **Neutral**: `#8B949E` grey
-- **Type — serif (titles)**: Tiempos, Spectral, or equivalent editorial serif
-- **Type — sans (metadata)**: Inter, IBM Plex Sans
+- **Type - serif (titles)**: Tiempos, Spectral, or equivalent editorial serif
+- **Type - sans (metadata)**: Inter, IBM Plex Sans
 - **No stock people, no 3D renders, no gradient decoration.** Aesthetic target: *Nature* / *Quanta Magazine* / *Bloomberg Terminal*, not marketing-landing.
 - **Safe-zone rule**: keep text > 120 px inset from any edge so GitHub's card-crop doesn't truncate.
