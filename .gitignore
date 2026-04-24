@@ -1,0 +1,8 @@
+# Raw auto-generated catalog contains local filesystem paths — not published.
+projects.raw.json
+
+# Env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

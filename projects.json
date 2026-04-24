@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated": "2026-04-19",
+    "note": "Curated index of authored projects. External clones filtered out.",
+    "owner": "pbathuri",
+    "profile": "https://github.com/pbathuri",
+    "count": 8
+  },
+  "projects": [
+    {
+      "name": "Claude_Hackathon",
+      "repo": "Claude_Hackathon",
+      "repo_url": "https://github.com/pbathuri/Claude_Hackathon",
+      "category": "ML systems & tooling",
+      "languages": [
+        "Python",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "React"
+      ],
+      "tech_stack": [
+        "FastAPI",
+        "Claude API",
+        "React",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "status": "active",
+      "summary": "AI-powered telehealth platform for underserved populations using Claude. Features voice/web intake, self-evolving medical knowledge graph, case triage, and a doctor dashboard."
+    },
+    {
+      "name": "ML_Project_M_Spring26",
+      "repo": "ResumeForge",
+      "repo_url": "https://github.com/pbathuri/ResumeForge",
+      "category": "ML systems & tooling",
+      "languages": [
+        "Python",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "Next.js",
+        "LangGraph",
+        "Celery"
+      ],
+      "tech_stack": [
+        "FastAPI",
+        "Next.js",
+        "Ollama",
+        "LaTeX",
+        "Redis",
+        "Celery",
+        "LangGraph"
+      ],
+      "status": "active",
+      "summary": "ResumeForge \u2014 a local-first, explainable resume tailoring system. Uses Ollama LLMs, LaTeX compilation, PDF generation, SSE streaming, Overleaf sync, and optional Redis/Celery async pipeline."
+    },
+    {
+      "name": "DeskFlow Native",
+      "repo": "deskflow-native",
+      "repo_url": "https://github.com/pbathuri/deskflow-native",
+      "category": "Tools",
+      "languages": [
+        "Swift",
+        "C#"
+      ],
+      "frameworks": [
+        "SwiftUI",
+        "WinUI 3"
+      ],
+      "tech_stack": [
+        "Swift",
+        "SwiftUI",
+        "C#",
+        "WinUI 3"
+      ],
+      "status": "active",
+      "summary": "Cross-platform (macOS + Windows) desktop workflow manager. Creates named workflow profiles with non-destructive shortcuts to existing folders and a desktop reconciliation engine."
+    },
+    {
+      "name": "Clap_OpsPilot",
+      "repo": "Clap_OpsPilot",
+      "repo_url": "https://github.com/pbathuri/Clap_OpsPilot",
+      "category": "ML systems & tooling",
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [],
+      "tech_stack": [
+        "Python",
+        "LLM agents"
+      ],
+      "status": "active",
+      "summary": "Agentic operations automation platform (OpsPilot). Contains training samples for agentic workflow tasks and lean operational decks."
+    },
+    {
+      "name": "pradyotbathuri-website",
+      "repo": "pradyotbathuri-website",
+      "repo_url": "https://github.com/pbathuri/pradyotbathuri-website",
+      "category": "Portfolio",
+      "languages": [
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Next.js"
+      ],
+      "tech_stack": [
+        "Next.js",
+        "JavaScript",
+        "CSS"
+      ],
+      "status": "active",
+      "summary": "Personal professional portfolio website built with Next.js, migrated from Wix."
+    },
+    {
+      "name": "Quantitative-Modeling_Practice",
+      "repo": "Quantitative-Modeling_Practice",
+      "repo_url": "https://github.com/pbathuri/Quantitative-Modeling_Practice",
+      "category": "Capital markets & trading",
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [],
+      "tech_stack": [
+        "Python",
+        "numpy",
+        "scipy"
+      ],
+      "status": "active",
+      "summary": "Quantitative finance modeling exercises including binomial option pricing models."
+    },
+    {
+      "name": "BOOK:LLM?",
+      "repo": "abstraction-dictionary-book",
+      "repo_url": "https://github.com/pbathuri/abstraction-dictionary-book",
+      "category": "Research",
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [
+        "Jupyter"
+      ],
+      "tech_stack": [
+        "Python",
+        "Jupyter",
+        "Markdown"
+      ],
+      "status": "active",
+      "summary": "Working project for a book on LLMs. Contains structured chapters, Jupyter notebooks, and academic paper references on prompt engineering, LLM internals, and applications."
+    },
+    {
+      "name": "NCAA",
+      "repo": "Kory_The_Cat-NCAA",
+      "repo_url": "https://github.com/pbathuri/Kory_The_Cat-NCAA",
+      "category": "Capital markets & trading",
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [],
+      "tech_stack": [
+        "Python",
+        "pandas",
+        "Jupyter"
+      ],
+      "status": "active",
+      "summary": "Data analysis and modeling project around NCAA sports, likely for sports analytics or prediction."
+    }
+  ]
+}
